@@ -12,23 +12,23 @@ new Vue({
         {
           name: "Kaise hua",
           cover: "https://github.com/devnamdev2003/guitar_tunes/raw/main/img/d1.jpg",
-          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/kaise_hua.mp3",
+          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/kaise_hua.mp4",
           favorited: false
         }, {
           name: "I love you bodyguard ",
           cover: "https://github.com/devnamdev2003/guitar_tunes/raw/main/img/d2.jpg",
-          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/i_love_you.mp3",
+          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/i_love_you.mp4",
           favorited: false
         }, {
           name: "Dekha Hazaro Dafaa",
           cover: "https://github.com/devnamdev2003/guitar_tunes/raw/main/img/d3.jpg",
-          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/Dekha_Hazaro_Dafaa.mp3",
+          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/Dekha_Hazaro_Dafaa.mp4",
           favorited: false
         }, {
           name: "Pehla Pyaar Hai",
           // artist: "dev",
           cover: "https://github.com/devnamdev2003/guitar_tunes/raw/main/img/d5.jpg",
-          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/Pehla_Pyaar_Hai.mp3",
+          source: "https://github.com/devnamdev2003/guitar_tunes/raw/main/mp3/Pehla_Pyaar_Hai.mp4",
           favorited: false
         },
       ],
